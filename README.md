@@ -17,3 +17,4 @@ The objective of this project is to learn the use of flexbox in css layouts, and
 during a CSS course.
 
 Feel free to use the website for your personal portfolio if you wish.
+You can check a live preview in https://darling-panda-d806fa.netlify.app
